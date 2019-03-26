@@ -1,0 +1,12 @@
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/dao/PetRepository.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/model/Owner.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/dao/OwnerRepository.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/service/PetClinicService.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/web/PetClinicController.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/service/PetClinicServiceImpl.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/exception/OwnerNotFoundException.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/PetClinicApplication.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/model/Pet.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/PetClinicProperties.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/dao/mem/OwnerRepositoryInMemoryImpl.java
+/Users/zuleyhakaya/Documents/workspace-sts-3.9.7.RELEASE/petclinic/src/main/java/com/javaspringboot/petclinic/PetClinicConfiguration.java
